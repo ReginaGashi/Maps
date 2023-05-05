@@ -6,6 +6,7 @@
 
 **How to Run:**
 You can clone this repository to your own machine.  Load your browser page using the file called "Index.html" to generate the PacMan images on your own screen.
+When you click on the blue button, the pointer should move between bus stops.
 
 
 **Road Map:**
