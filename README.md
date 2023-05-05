@@ -4,10 +4,12 @@
 
 <img src= "MIT.jpg" width = '300'/>
 
-**How to:**
+**How to Run:**
+You can clone this repository to your own machine.  Load your browser page using the file called "Index.html" to generate the PacMan images on your own screen.
 
 
 **Road Map:**
+In the near future I would like to work on maps of NYC and adding MTA information to my repo.
 
 
 **License Info:**
